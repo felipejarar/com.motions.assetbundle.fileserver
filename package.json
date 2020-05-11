@@ -4,9 +4,7 @@
     "version" : "1.0.0",
     "author" : "Felipe Jara",
     "description" : "Paquete que permite facilitar la carga/descarga de AssetBundles, conectando el proyecto Unity a algún repositorio externo que almacena este tipo de archivos",
-    "dependencies" : 
-    {
-
+    "dependencies" : {
     },
     "repository" : 
     {
